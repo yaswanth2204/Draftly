@@ -236,10 +236,3 @@ npm run build
 4. Push to branch: `git push origin feature-name`
 5. Submit a Pull Request
 
-## License
-
-This project is licensed under the MIT License.
-
-## Support
-
-For support or questions, please open an issue in the repository.
